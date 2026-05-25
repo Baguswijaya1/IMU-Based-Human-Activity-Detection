@@ -6,3 +6,6 @@ Classifies human activity such as standing and walking based on 3-axis accelerom
 ```
 https://www.kaggle.com/datasets/zoya77/agro-human-activity-imu-sensor-dataset?select=HAR-for-human-robot-interaction-in-agriculture
 ```
+
+### Next work
+add Spatial & Geometric Visualization to evaluate model performance
